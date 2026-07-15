@@ -1,0 +1,12 @@
+# Dependency folders
+node_modules/
+dist/
+
+# Local Environment Secret Files
+.env
+.env.local
+
+# System/IDE Files
+.DS_Store
+.vscode/
+*.lnk
